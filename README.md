@@ -1,2 +1,0 @@
-# ThemeCircleCycler
-Created with CodeSandbox
